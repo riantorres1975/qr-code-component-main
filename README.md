@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://qr-component-frontendmentor-rian.netlify.app/)
+- Live Site URL: [qr-component](https://qr-component-frontendmentor-rian.netlify.app/)
 
 ## My process
 
