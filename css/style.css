@@ -23,7 +23,7 @@ body{
 }
 
 .container{
-  border-radius: 12px;
+  border-radius: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   margin-bottom: 20px;
 }
@@ -32,12 +32,12 @@ body{
   width: 350px;
   padding: 15px;
   background-color: var(--White);
-  border-radius: 12px;
+  border-radius: 20px;
 }
 
 .qr-code__image img{
   width: 100%;
-  border-radius: 12px;
+  border-radius: 20px;
 }
 .qr-code__tittle{
   margin-top: 20px;
