@@ -55,3 +55,12 @@ body{
   padding: 20px;
   text-align: center;
 }
+
+.attribution{
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a{
+  text-decoration: none;
+  color:#2C7DFA; 
+}
